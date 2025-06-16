@@ -11,5 +11,4 @@ CopyEdit
 
     Here you can see the demo of the project
 
-    https://incandescent-daffodil-8fc34e.netlify.app/
-
+https://genuine-mermaid-9b9876.netlify.app/
